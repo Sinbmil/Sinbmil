@@ -1,3 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=8C8CF5&height=300&section=header&text=Sinbmil%20&fontSize=100&fontColor='#3c3c3c')
 ![Sinbmil's github stats](https://github-readme-stats.vercel.app/api?username=Sinbmil&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinbmil&layout=compact&theme=radical)
+<br>
+## Activity
+* (2021) 공주대학교 Striking Arts 동아리 프로그래밍 교육 멘토
+* (2021) 빅데이터 및 AI를 활용한 체형 및 피부색별 적합 의류 추천 시스템 개발
+* (2021) 공주대학교 교내 캡스톤디자인 아이디어 경진대회 참가(체형 및 피부색에 적합한 의류 추천 시스템)
+* (2021) 종합 가구 사이트 개발
+* (2021) 나만의 영화사이트 개발
